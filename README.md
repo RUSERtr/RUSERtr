@@ -1,5 +1,6 @@
-## Hi there 👋, i'm currently a Software Developer, especially on mobile apps and open source develope 🔷👁🔷
+## Hi there 👋, i'm currently a Software Developer, especially on mobile apps and open source development 🔷👁🔷
 
+### | Larga vida al desarrollo de codigo abierto | 👁🧠
 <!--
 **RUSERtr/RUSERtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
