@@ -1,6 +1,6 @@
 # | Hi/Hola 🤠 i'm Sergio/@ruser |
 # 💫 About Me:
-🏮 You can contact me/ Puedes contactarme: sergiotr22@gmail.com <br>🏮 I'm a Software Developer ⚙<br>🏮 Specialized in Android/iOS mobile development 📱<br>🏮Open Source Maintainer 🧰 🔧
+🏮 You can contact me/ Puedes contactarme: sergiotr22@gmail.com <br>🏮 I'm a Software Developer ⚙<br>🏮 Specialized in Android/iOS mobile development 📱
 
 
 ## 🌐 Socials:
